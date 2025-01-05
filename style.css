@@ -40,7 +40,8 @@
 }
 .f1{
     font-weight: 700;
-font-size:3rem;
+font-size:150%;
+line-height:24% ;
   opacity:1;
  margin-bottom: 1em;
  
